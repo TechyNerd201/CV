@@ -1,0 +1,58 @@
+*{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 101.5%;
+}
+hr{
+    height: 0.2%;
+    background-color: rgb(214, 162, 48);
+    
+}
+#tab1 {
+    border:5px  solid ;
+    border-spacing:2em;
+    margin:5%;
+    
+}
+#tab2{
+    border-spacing:40 10;
+    margin:5%;
+
+}
+#tab3{
+    border-spacing:20px 9px ;
+    text-align: center;
+    margin:3.5%;
+}
+#tab4{
+    border-spacing:10px 10px;
+    margin:4.7%;
+    line-height:200%;
+    
+}
+.tab5{
+    margin:5%;
+    line-height: 300%;
+    border-spacing:15px 10px;
+}
+.order{
+    margin:5%;
+    text-indent:2%;
+    line-height:170%;
+
+}
+#tab6{
+    margin: 5%;
+    border-spacing:15px 7px;
+    line-height:300%;
+}
+.heading{
+    padding-left:2.5%;
+    
+}
+.social_img {
+
+    width:7%;
+    height:7%;
+}
+    
