@@ -6,6 +6,7 @@
 hr{
     height:0.3vh;
     background-color:rgb(214, 162, 48);
+    width:100%;
     
 }
 #photo1{
@@ -28,9 +29,9 @@ hr{
     
 }
 #tab2{
-    border-spacing:40 10;
-    margin:5%;
-
+    border-spacing:10vh 10vh;
+    margin:8vh;
+    line-height:4vh;
 }
 #tab3{
     border-spacing:5vh 4vh ;
