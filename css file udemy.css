@@ -1,12 +1,25 @@
 *{
     background-color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif; 
-    font-size: 101.5%;
+    font-size: 2.3vh;
 }
 hr{
-    height: 0.2%;
-    background-color: rgb(214, 162, 48);
+    height:0.3vh;
+    background-color:rgb(214, 162, 48);
     
+}
+#photo1{
+    width:40vh;
+    height:40vh;
+    max-width:45vh;
+    max-height:45vh;
+
+}
+#photo2{
+    width:30vh;
+    height:30vh;
+    max-width:35vh;
+    max-height:35vh;
 }
 #tab1 {
     border:5px  solid ;
@@ -20,39 +33,41 @@ hr{
 
 }
 #tab3{
-    border-spacing:20px 9px ;
+    border-spacing:5vh 4vh ;
     text-align: center;
-    margin:3.5%;
+    margin:5vh;
 }
 #tab4{
-    border-spacing:10px 10px;
-    margin:4.7%;
-    line-height:200%;
+    border-spacing:4.5vh 4.5vh;
+    margin:7vh;
+    border-bottom:4vh;
+    line-height:5vh;
     
 }
 .tab5{
-    margin:5%;
-    line-height: 300%;
-    border-spacing:15px 10px;
+    margin:6vh;
+    line-height:7vh;
+    border-spacing:7vh 3vh;
 }
 .order{
-    margin:5%;
-    text-indent:2%;
-    line-height:170%;
+    margin-left:6vh;
+    margin: 8vh;
+    text-indent:2.5vh;
+    line-height:4.5vh;
 
 }
 #tab6{
-    margin: 5%;
-    border-spacing:15px 7px;
-    line-height:300%;
+    margin: 5vh;
+    border-spacing:6vh 2vh;
+    line-height:6vh;
 }
 .heading{
-    padding-left:2.5%;
+    padding-left:2.5vh;
     
 }
 .social_img {
 
-    width:7%;
-    height:7%;
+    width:4vh;
+    height:4vh;
 }
     
